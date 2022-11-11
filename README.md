@@ -1,6 +1,6 @@
 i like programming and messing round :D probably working on sommin dumb
 my website: https://files.randspoon.gq/
-VALVe: https://www,valve.com/
+VALVe: https://www.valve.com/
 
 ![image](https://user-images.githubusercontent.com/107148755/201308392-0e36172f-562a-4ed9-af3e-96de0a15e75d.gif)                  ![image](https://user-images.githubusercontent.com/107148755/201310044-75c2b65e-7e3d-4f75-8d18-fcd4b2b7ffa9.jpeg)
 
