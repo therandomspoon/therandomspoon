@@ -5,7 +5,8 @@ yt channel with my adverts and projects - https://www.youtube.com/channel/UC8FVc
 i like programming and messing round :D probably working on sommin dumb
 my website: https://randspoon.co.uk/
 
-[vscode]: https://github.com/Microsoft/vscode
+
+[vscode]: https://vscode.dev/
 
 ![Therandomspoon's GitHub stats](https://github-readme-stats.vercel.app./api?username=therandomspoon&show_icons=true&theme=radical)
 
