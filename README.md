@@ -1,5 +1,3 @@
--RandDOS is down-
-![D08F5003-384C-4710-B685-4CC60711494C](https://user-images.githubusercontent.com/107148755/215787569-ceee55e8-711b-4cae-9004-663a94bc13fa.jpeg)
 
 https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__TopNrZURVRZWjRTNTVQUEVMOFQ1RVU3T0FKRjRBWS4u - project suggestions
 
